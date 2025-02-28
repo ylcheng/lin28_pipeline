@@ -1,0 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Ignore Python files
+compute_hamming_distances_btw_references_and_queries_v1.py
+compute_hamming_distances_btw_references_and_queries_v2.py
+subset_reads_with_flanking_sequences_v1.py
+subset_reads_with_flanking_sequences_v2.py
